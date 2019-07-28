@@ -1,0 +1,56 @@
+nav{
+	background-color: #190F6E;
+
+
+}
+
+.navbar .logo{
+	min-height: 150px;
+	margin-top: 20px;
+}
+
+.fa{
+	color:white;
+
+}
+.fab{
+	color: white;
+}
+
+nav span{
+	margin-right: 20px;
+}
+
+nav .button{
+	background-color: #190F6E;
+}
+
+.card-span{
+	font-size: 12px;
+
+}
+.card-img-overlay{
+	position: absolute;
+	left: 55px;
+	top: 225px;
+
+}
+
+.card-img-overlay h1{
+	font-size: 30px;
+}
+
+.ustalansol{
+	margin-top: -5px;
+	padding:0px;
+	z-index: -999;
+}
+.ustalansag{
+	margin-top: -5px;
+	margin-left: -30px;
+	padding: 0px;
+	z-index: -999;	
+}
+.usthaberboyut{
+	height: 370px !important;
+}
